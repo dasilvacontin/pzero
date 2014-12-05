@@ -1,0 +1,23 @@
+{
+  "uuid": "451b888e-afdd-4497-8de7-8caaa65b0a85",
+  "shortName": "P-ZERO",
+  "longName": "P-ZERO",
+  "companyName": "David da Silva",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+         "name": "SPRITESHEET",
+         "file": "images/spritesheet.png"
+      }
+    ]
+  }
+}
